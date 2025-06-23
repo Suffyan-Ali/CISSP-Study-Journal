@@ -1,8 +1,8 @@
 # 🛡️ CISSP Study Journal
 
-Welcome to my **CISSP (Certified Information Systems Security Professional)** self-study journal. This repository documents my daily preparation for the CISSP certification, covering all **8 domains** of the (ISC)² CBK (Common Body of Knowledge).
+Welcome to my **CISSP (Certified Information Systems Security Professional)** self-study journal. This repository documents my  preparation for the CISSP certification, covering all **8 domains** of the (ISC)² CBK (Common Body of Knowledge).
 
-I’ve created this repo to:
+I have created this repo to:
 - Track my daily learning progress
 - Write structured notes for each domain
 - Share curated resources (cheat sheets, mind maps, PDF guides)
